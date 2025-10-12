@@ -1,0 +1,4 @@
+requests
+pymupdf
+docx2txt
+tqdm
