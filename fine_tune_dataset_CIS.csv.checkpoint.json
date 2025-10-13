@@ -1,8 +1,9 @@
 {
-  "doc_index": 4,
-  "doc_name": "CIS Azure Kubernetes Service (AKS) Benchmark v1.7.0 PDF.pdf",
+  "doc_index": 12,
+  "doc_name": "CIS_AWS_Storage_Services_Benchmark_v1.0.0.pdf",
   "chunk_index_map": {
-    "CIS Azure Kubernetes Service (AKS) Benchmark v1.7.0 PDF.pdf": 23
+    "CIS Kubernetes Benchmark v1.8.0 PDF.pdf": 189,
+    "CIS_AWS_Storage_Services_Benchmark_v1.0.0.pdf": 39
   },
-  "timestamp": 1760278083.283963
+  "timestamp": 1760382220.2268732
 }
