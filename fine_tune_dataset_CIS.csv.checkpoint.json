@@ -1,9 +1,10 @@
 {
-  "doc_index": 12,
-  "doc_name": "CIS_AWS_Storage_Services_Benchmark_v1.0.0.pdf",
+  "doc_index": 15,
+  "doc_name": "CIS_Aliyun_Linux_2_Benchmark_v1.0.0_ARCHIVE.pdf",
   "chunk_index_map": {
     "CIS Kubernetes Benchmark v1.8.0 PDF.pdf": 189,
-    "CIS_AWS_Storage_Services_Benchmark_v1.0.0.pdf": 39
+    "CIS_AWS_Storage_Services_Benchmark_v1.0.0.pdf": 39,
+    "CIS_Aliyun_Linux_2_Benchmark_v1.0.0_ARCHIVE.pdf": 76
   },
-  "timestamp": 1760382220.2268732
+  "timestamp": 1760473521.07641
 }
