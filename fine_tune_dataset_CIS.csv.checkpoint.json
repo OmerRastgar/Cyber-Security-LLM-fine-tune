@@ -1,10 +1,12 @@
 {
-  "doc_index": 15,
-  "doc_name": "CIS_Aliyun_Linux_2_Benchmark_v1.0.0_ARCHIVE.pdf",
+  "doc_index": 19,
+  "doc_name": "CIS_Amazon_Web_Services_Foundations_Benchmark_v6.0.0.pdf",
   "chunk_index_map": {
     "CIS Kubernetes Benchmark v1.8.0 PDF.pdf": 189,
     "CIS_AWS_Storage_Services_Benchmark_v1.0.0.pdf": 39,
-    "CIS_Aliyun_Linux_2_Benchmark_v1.0.0_ARCHIVE.pdf": 76
+    "CIS_Aliyun_Linux_2_Benchmark_v1.0.0_ARCHIVE.pdf": 76,
+    "CIS_AlmaLinux_OS_10_Benchmark_v1.0.0.pdf": 878,
+    "CIS_Amazon_Web_Services_Foundations_Benchmark_v6.0.0.pdf": 32
   },
-  "timestamp": 1760473521.07641
+  "timestamp": 1760648305.184634
 }
