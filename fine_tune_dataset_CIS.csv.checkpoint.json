@@ -1,6 +1,6 @@
 {
-  "doc_index": 25,
-  "doc_name": "CIS_Azure_Compute_Microsoft_Windows_Server_2022_Benchmark_v1.0.0.pdf",
+  "doc_index": 29,
+  "doc_name": "CIS_Cisco_IOS_XE_16.x_Benchmark_v2.2.0.pdf",
   "chunk_index_map": {
     "CIS Kubernetes Benchmark v1.8.0 PDF.pdf": 189,
     "CIS_AWS_Storage_Services_Benchmark_v1.0.0.pdf": 39,
@@ -8,7 +8,8 @@
     "CIS_AlmaLinux_OS_10_Benchmark_v1.0.0.pdf": 878,
     "CIS_Amazon_Web_Services_Foundations_Benchmark_v6.0.0.pdf": 32,
     "CIS_Apple_iOS_18_and_iPadOS_18_Intune_Benchmark_v1.0.0.pdf": 71,
-    "CIS_Azure_Compute_Microsoft_Windows_Server_2022_Benchmark_v1.0.0.pdf": 28
+    "CIS_Azure_Compute_Microsoft_Windows_Server_2022_Benchmark_v1.0.0.pdf": 28,
+    "CIS_Cisco_IOS_XE_16.x_Benchmark_v2.2.0.pdf": 5
   },
-  "timestamp": 1760735986.660022
+  "timestamp": 1760802615.0205312
 }
