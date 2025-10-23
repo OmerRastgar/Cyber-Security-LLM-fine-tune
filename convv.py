@@ -12,10 +12,15 @@ with open(input_file, "r", encoding="utf-8") as infile:
         if not line.strip():
             continue  # skip empty lines
         data = json.loads(line)
+
+        document_name = data.get("document_name", "")
+        ai_prompt = data.get("ai_prompt", "")
         
-        # Convert structure
+        # Merge the document name into the output
+        merged_output = f"[Source: {document_name}] {ai_prompt}" if document_name else ai_prompt
+
         converted = {
-            "output": data.get("ai_prompt", ""),
+            "output": merged_output,
             "input": data.get("user_prompt", ""),
             "instruction": data.get("system_prompt", "")
         }
