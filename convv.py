@@ -1,7 +1,7 @@
 import json
 
 # Input JSONL file
-input_file = "fine_tune_dataset.csv.journal.jsonl"
+input_file = "Dataset.jsonl"
 # Output JSON file
 output_file = "converted.json"
 
@@ -17,7 +17,7 @@ with open(input_file, "r", encoding="utf-8") as infile:
         ai_prompt = data.get("ai_prompt", "")
         
         # Merge the document name into the output
-        merged_output = f"[Source: {document_name}] {ai_prompt}" if document_name else ai_prompt
+        merged_output = f"{ai_prompt} \n \n [Source: {document_name}] " if document_name else ai_prompt
 
         converted = {
             "output": merged_output,

@@ -1,6 +1,6 @@
 {
-  "doc_index": 45,
-  "doc_name": "CIS_Google_Workspace_Foundations_Benchmark_v1.3.0.pdf",
+  "doc_index": 59,
+  "doc_name": "CIS_Microsoft_Intune_for_Office_Benchmark_v1.1.0.pdf",
   "chunk_index_map": {
     "CIS Kubernetes Benchmark v1.8.0 PDF.pdf": 189,
     "CIS_AWS_Storage_Services_Benchmark_v1.0.0.pdf": 39,
@@ -12,7 +12,10 @@
     "CIS_Cisco_IOS_XE_16.x_Benchmark_v2.2.0.pdf": 5,
     "CIS_Docker_Community_Edition_Benchmark_v1.1.0.pdf": 11,
     "CIS_Google_ChromeOS_Benchmark_v1.1.0.pdf": 160,
-    "CIS_Google_Workspace_Foundations_Benchmark_v1.3.0.pdf": 137
+    "CIS_Google_Workspace_Foundations_Benchmark_v1.3.0.pdf": 137,
+    "CIS_Juniper_OS_Benchmark_v2.1.0 PDF.pdf": 443,
+    "CIS_Microsoft_Azure_Foundations_Benchmark_v5.0.0.pdf": 247,
+    "CIS_Microsoft_Intune_for_Office_Benchmark_v1.1.0.pdf": 67
   },
-  "timestamp": 1761244978.2389896
+  "timestamp": 1761505971.797798
 }
