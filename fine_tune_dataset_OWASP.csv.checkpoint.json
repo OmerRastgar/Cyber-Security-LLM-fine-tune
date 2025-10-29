@@ -1,0 +1,10 @@
+{
+  "doc_index": 105,
+  "doc_name": "gRPC_Security_Cheat_Sheet.md",
+  "chunk_index_map": {
+    "Authentication_Cheat_Sheet.md": 10,
+    "JSON_Web_Token_for_Java_Cheat_Sheet.md": 1,
+    "gRPC_Security_Cheat_Sheet.md": 7
+  },
+  "timestamp": 1761696568.0157576
+}

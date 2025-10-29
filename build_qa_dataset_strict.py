@@ -37,7 +37,7 @@ def normalize_text(s: str) -> str:
     return s.strip()
 
 def is_supported(path: str) -> bool:
-    return os.path.splitext(path)[1].lower() in {".pdf", ".docx", ".txt"}
+    return os.path.splitext(path)[1].lower() in {".pdf", ".docx", ".txt", ".md"}
 
 def read_text(path: str) -> str:
     ext = os.path.splitext(path)[1].lower()
@@ -50,7 +50,7 @@ def read_text(path: str) -> str:
             return "\n".join(parts)
         if ext == ".docx":
             return docx2txt.process(path) or ""
-        if ext == ".txt":
+        if ext in {".txt", ".md"}:
             with open(path, "r", encoding="utf-8", errors="ignore") as f:
                 return f.read()
     except Exception as e:
